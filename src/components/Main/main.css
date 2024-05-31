@@ -195,4 +195,7 @@
   .search-box div{
     gap: 5px;
   }
+  .search-box input{
+    font-size: 15px;
+  }
 }
